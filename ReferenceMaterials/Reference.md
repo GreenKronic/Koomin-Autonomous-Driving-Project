@@ -9,6 +9,8 @@
   -RADAR
     
   -CAMERA
+
+  [openCV를 이용하여 line, lane 추출](https://soheeeep.tistory.com/16)
    
   -GYRO,IMU
 
@@ -24,8 +26,6 @@
   
   -LANE
 
-  [openCV를 이용하여 line, lane 추출](https://soheeeep.tistory.com/16)
-  
   [awsome lane detection](https://docs.qgis.org/3.34/ko/docs/training_manual/forestry/basic_lidar.html)
 
   [lane detection using matlab](https://github.com/ysshah95/Lane-Detection-using-MATLAB)
