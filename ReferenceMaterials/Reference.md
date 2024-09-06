@@ -1,4 +1,4 @@
-SENSOR
+1.SENSOR
 
   LiDAR
 
@@ -15,7 +15,7 @@ SENSOR
   GYRO,IMU
     
 
-PERCEPTION
+2.PERCEPTION
   TRAFFIC
     
   LANE
@@ -31,7 +31,7 @@ PERCEPTION
   CURVE
     
 
-제어
+3.제어
 
   모터
     
