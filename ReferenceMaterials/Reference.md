@@ -63,5 +63,6 @@
 
 
 Opensource codes
-[JetRacer open source](https://github.com/NVIDIA-AI-IOT/jetracer)
-[Donkey Car](https://docs.donkeycar.com/)
+
+  [JetRacer open source](https://github.com/NVIDIA-AI-IOT/jetracer)
+  [Donkey Car](https://docs.donkeycar.com/)
