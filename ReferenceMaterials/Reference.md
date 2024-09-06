@@ -9,8 +9,6 @@
   -RADAR
     
   -CAMERA
-  
-   [openCV를 이용하여 line, lane 추출](https://soheeeep.tistory.com/16)
    
   -GYRO,IMU
 
@@ -25,6 +23,8 @@
   [traffic lighs negotiation](https://kr.mathworks.com/help/mpc/ug/traffic-light-negotiation.html)
   
   -LANE
+
+  [openCV를 이용하여 line, lane 추출](https://soheeeep.tistory.com/16)
   
   [awsome lane detection](https://docs.qgis.org/3.34/ko/docs/training_manual/forestry/basic_lidar.html)
 
