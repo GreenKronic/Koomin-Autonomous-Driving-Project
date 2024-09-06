@@ -9,5 +9,6 @@ LiDAR
 [JetRacer open source](https://github.com/NVIDIA-AI-IOT/jetracer)
 
 
-https://docs.qgis.org/3.34/ko/docs/training_manual/forestry/basic_lidar.html
+[LIDAR 데이터로부터 DEM 생성](https://docs.qgis.org/3.34/ko/docs/training_manual/forestry/basic_lidar.html)
+
 
