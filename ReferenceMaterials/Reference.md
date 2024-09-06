@@ -33,6 +33,5 @@
 
   -모터
 
-/n
 [JetRacer open source](https://github.com/NVIDIA-AI-IOT/jetracer)
   
