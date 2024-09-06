@@ -9,8 +9,11 @@
   -RADAR
     
   -CAMERA
-    
+  
+   [openCV를 이용하여 line, lane 추출](https://soheeeep.tistory.com/16)
+   
   -GYRO,IMU
+
     
 
 2.PERCEPTION
