@@ -9,8 +9,6 @@
   -RADAR
     
   -CAMERA
-
-  [openCV를 이용하여 line, lane 추출](https://soheeeep.tistory.com/16)
    
   -GYRO,IMU
 
@@ -19,12 +17,18 @@
 2.PERCEPTION
 
   -TRAFFIC
-  
+
+  *CAMERA
+
   [traffic lights tracking](https://github.com/RomeroRodriguezD/Traffic-Lights-Tracking-and-Color-Detection-OpenCV)
 
   [traffic lighs negotiation](https://kr.mathworks.com/help/mpc/ug/traffic-light-negotiation.html)
   
   -LANE
+
+  *CAMERA
+
+  [openCV를 이용하여 line, lane 추출](https://soheeeep.tistory.com/16)
 
   [awsome lane detection](https://docs.qgis.org/3.34/ko/docs/training_manual/forestry/basic_lidar.html)
 
@@ -37,15 +41,46 @@
   [lane detection with openCV](https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0)
 
   -OBSTACLE
-    
+ 
+  *LIDAR
+
+  *RADAR
+
+  *CAMERA
+
   -SIGN
     
+  *CAMERA
+  
   -PARKING
-    
+ 
+  *LIDAR
+
+  *RADAR
+
+  *CAMERA
+
+  *GYRO, IMU   
+  
   -GYRO
-    
+  
+  *LIDAR
+
+  *RADAR
+
+  *CAMERA
+
+  *GYRO, IMU  
+  
   -CURVE
-    
+  
+  *LIDAR
+
+  *RADAR
+
+  *CAMERA
+
+  *GYRO, IMU  
 
 3.제어
 
@@ -65,7 +100,7 @@
 
 
 
-Opensource codes
+5.Opensource codes
 
   [JetRacer open source](https://github.com/NVIDIA-AI-IOT/jetracer)
   
