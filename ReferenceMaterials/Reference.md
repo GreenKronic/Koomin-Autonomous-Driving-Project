@@ -1,6 +1,6 @@
 1.SENSOR
 
-  LiDAR
+  -LiDAR
 
     [KITTI 사용 LiDAR 카메라변환](https://darkpgmr.tistory.com/190)
 
@@ -8,30 +8,30 @@
 
     [LIDAR 데이터로부터 DEM 생성](https://docs.qgis.org/3.34/ko/docs/training_manual/forestry/basic_lidar.html)
 
-  RADAR
+  -RADAR
     
-  CAMERA
+  -CAMERA
     
-  GYRO,IMU
+  -GYRO,IMU
     
 
 2.PERCEPTION
-  TRAFFIC
+  -TRAFFIC
     
-  LANE
+  -LANE
     
-  OBSTACLE
+  -OBSTACLE
     
-  SIGN
+  -SIGN
     
-  PARKING
+  -PARKING
     
-  GYRO
+  -GYRO
     
-  CURVE
+  -CURVE
     
 
 3.제어
 
-  모터
+  -모터
     
