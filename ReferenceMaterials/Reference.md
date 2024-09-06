@@ -7,3 +7,7 @@ LiDAR
 
 
 [JetRacer open source](https://github.com/NVIDIA-AI-IOT/jetracer)
+
+
+https://docs.qgis.org/3.34/ko/docs/training_manual/forestry/basic_lidar.html
+
