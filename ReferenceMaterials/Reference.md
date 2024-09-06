@@ -18,15 +18,11 @@
 
   -TRAFFIC
 
-  *CAMERA
-
   [traffic lights tracking](https://github.com/RomeroRodriguezD/Traffic-Lights-Tracking-and-Color-Detection-OpenCV)
 
   [traffic lighs negotiation](https://kr.mathworks.com/help/mpc/ug/traffic-light-negotiation.html)
   
   -LANE
-
-  *CAMERA
 
   [openCV를 이용하여 line, lane 추출](https://soheeeep.tistory.com/16)
 
@@ -42,52 +38,18 @@
 
   -OBSTACLE
  
-  *LIDAR
-
-  *RADAR
-
-  *CAMERA
-
   -SIGN
     
-  *CAMERA
-  
   -PARKING
  
-  *LIDAR
-
-  *RADAR
-
-  *CAMERA
-
-  *GYRO, IMU   
-  
   -GYRO
-  
-  *LIDAR
-
-  *RADAR
-
-  *CAMERA
-
-  *GYRO, IMU  
   
   -CURVE
   
-  *LIDAR
-
-  *RADAR
-
-  *CAMERA
-
-  *GYRO, IMU  
-
 3.제어
 
   -모터
 
-
-  
 4.Matlab
 
 [example list1](https://kr.mathworks.com/help/driving/examples.html?category=planning-and-control&exampleproduct=all)
