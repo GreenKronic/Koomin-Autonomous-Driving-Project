@@ -84,4 +84,4 @@
 
    [PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection/tree/master)
    
-   
+   [A disection into 3D Object Detection through PyTorch based code and ComplexYOLO Algorithm](https://medium.com/@abdulhaq.ah/a-disection-into-3d-object-detection-through-pytorch-based-code-and-complexyolo-algorithm-d45cceab4570)
