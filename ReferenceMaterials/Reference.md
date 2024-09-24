@@ -69,11 +69,17 @@
   [Donkey Car](https://docs.donkeycar.com/)
 
 6. Simulation
+   
    [Obj Detection Carla](https://github.com/stemsgrpy/Object-Detection-for-CARLA-Driving-Simulator-by-using-YOLOv4)
+   
    [Carla Obj Detection datasets](https://github.com/DanielHfnr/Carla-Object-Detection-Dataset)
+   
    [Implementing Lane Detection in CARLA using LaneNet](https://medium.com/@diazoangga/implementing-lane-detection-in-carla-using-lanenet-330d8fd8720c)
+   
    [Reinforcement Learning Environment - Self-driving cars with Carla and Python](https://pythonprogramming.net/reinforcement-learning-environment-self-driving-autonomous-cars-carla-python/)
+   
    [Autoware](https://github.com/autowarefoundation/autoware)
+   
    [ORB SLAM](https://github.com/raulmur/ORB_SLAM)
    
    
