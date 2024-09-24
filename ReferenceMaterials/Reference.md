@@ -81,5 +81,7 @@
    [Autoware](https://github.com/autowarefoundation/autoware)
    
    [ORB SLAM](https://github.com/raulmur/ORB_SLAM)
+
+   [PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection/tree/master)
    
    
