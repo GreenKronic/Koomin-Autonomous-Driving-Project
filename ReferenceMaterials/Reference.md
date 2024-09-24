@@ -6,6 +6,8 @@
 
   [LIDAR 데이터로부터 DEM 생성](https://docs.qgis.org/3.34/ko/docs/training_manual/forestry/basic_lidar.html)
 
+  [LiDAR-point-cloud-based-3D-object-detection](https://github.com/RobuRishabh/LiDAR-point-cloud-based-3D-object-detection/blob/main/Project.ipynb)
+
   -RADAR
     
   -CAMERA
